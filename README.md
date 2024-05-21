@@ -1,8 +1,12 @@
-# 💫 About Me:
-🔭 Atualmente estou trabalhando em um Dashboard integrado com API da riot<br>👯 Estou procurando colaborar em times de e-Sport<br>🌱 Atualmente estou aprendendo React<br>
+# Simplesmente Mat
 
+Hi! I'm a programmer and data science for Stealth Lab. Reach me on:
+- Twitter: [@simplesmentmat](https://twitter.com/simplesmentmat)
+- Email: [maatanalista@gmail.com](mailto:maatanalista@gmail.com)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MattPaulo#3367) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateuspaulo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MaattPaulo) 
+## Notes
+- [CBLOL Academy — O que falam alguns KPI.](https://medium.com/@maatanalista/cblol-academy-o-que-falam-alguns-kpi-2a5e682cc538)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [Usando XGBoost no CBLOL.](https://medium.com/@maatanalista/usando-xgboost-no-cblol-6f12f88ab0d2)
+
+- [DEA — Avaliando a eficiência esportiva do CBLOL;](https://medium.com/@maatanalista/dea-avaliando-a-efici%C3%AAncia-esportiva-do-cblol-dc43989d796f)
