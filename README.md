@@ -1,6 +1,6 @@
 # Simplesmente Mat
 
-Hi! I'm a programmer and data science for ?. Reach me on:
+Hi! I'm a programmer and data science for @FURIA. Reach me on:
 - Twitter: [@simplesmentmat](https://twitter.com/simplesmentmat)
 - Email: [maatanalista@gmail.com](mailto:maatanalista@gmail.com)
 
